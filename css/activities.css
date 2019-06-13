@@ -1,0 +1,46 @@
+.information {margin-bottom: 40px;}
+.information p:nth-child(1) {line-height: 28px;height: 50px;border-top: 1px solid #CCCCCC;font-family: 'Microsoft Yahei';padding-top: 10px;}
+.information .titleText {color: #FFF;}
+.contact .yourInformation {margin-left: 30px;}
+.contact .yourInformation input {padding: 0 20px;height: 42px;border: 1px solid #d7d9db;border-radius: 42px;font-size: 13px;font-weight: 100;color: #818888;background-color: #FFF;margin: 0 15px;}
+.contact .uploadFiles {margin-left: 16px;}
+.contact .uploadFiles #V_FILE_0 {padding: 0 20px;height: 42px;border: 1px solid #d7d9db;border-radius: 42px;font-size: 13px;font-weight: 100;color: #818888;background-color: #FFF;margin: 0 15px;}
+.submitStyle {position: absolute;display: inline;width: 104px;height: 25px;background-color: #F2F2F2;overflow: hidden;margin-left: 45px;border-radius: 20px;margin-top: 8px;}
+.plusStyle, #filterTool .plusStyle[type="submit"] {
+    background: url(../img/activities/btn_email_add.png) no-repeat 0 0;border: 0 none;cursor: pointer;width: 23px;height: 24px;overflow: visible;vertical-align: middle;}
+.minusStyle, #filterTool .minusStyle[type="submit"] {
+    background: url(../img/activities/btn_email_del.png) no-repeat 0 0;border: 0 none;cursor: pointer;width: 23px;height: 24px;overflow: visible;vertical-align: middle;}
+.fileSizeNote {color: #fff;margin-left: 50px;font-weight: 600;font-size: 12px;margin-top: 10px;}
+.contacts-form__col {margin-left: 59px;}
+.contacts-form__col input {padding: 0 20px;height: 42px;border: 1px solid #d7d9db !important;border-radius: 42px;font-size: 13px;font-weight: 100;color: #818888;background-color: #fff !important;width: 365px;}
+.contact .contacts-form__row {width: 50%;margin-left: 59px;}
+.contacts-form__message {padding: 15px 20px;border: 1px solid #d7d9db;border-radius: 19px;font-size: 13px;font-weight: 100;color: #818888;background-color: #FFF;    box-sizing: border-box;padding: 10px;width: 100%;height: 165px;resize: none;outline: none;border: none;background: #FFF;transition: all .2s ease-in-out;}
+#reset,
+#submit {height: 38px;border-radius: 38px;text-transform: uppercase;font-size: 13px;font-weight: 700;background: #bf9a5d !important;display: inline-flex;width: 13%;border-color: transparent !important;padding: 0 55px;color: #FFF !important;margin-right: 25px;}
+#reset:hover, 
+#submit:hover {background-color: #3c7067 !important;}
+
+
+
+
+
+/*MOBILE*/
+.contact .yourInformation-m,
+.contact .uploadFiles-m {margin-left: 0;}
+.contact .yourInformation-m input {padding: 0 20px;height: 42px;border: 1px solid #d7d9db;border-radius: 42px;font-size: 13px;font-weight: 100;color: #818888;background-color: #FFF;margin-top: 5px;width: 350px;}
+.contact .uploadFiles-m #V_FILE_0 {padding: 0 20px;height: 42px;border: 1px solid #d7d9db;border-radius: 42px;font-size: 13px;font-weight: 100;color: #818888;background-color: #FFF;}
+.contact .uploadFiles-m .submitStyle {position: absolute;display: inline;width: 104px;height: 25px;background-color: #F2F2F2;overflow: hidden;margin-left: 10px;border-radius: 20px;margin-top: 8px;}
+.contact .uploadFiles-m .fileSizeNote,
+.contacts-form__col-m,
+.contacts-form__row-m {margin-left: 0;}
+.contacts-form__col-m input {padding: 0 20px;height: 42px;border: 1px solid #d7d9db !important;border-radius: 42px;font-size: 13px;font-weight: 100;color: #818888;background-color: #fff !important;width: 350px;}
+.contacts-form__row-m .contacts-form__message {border-radius: 19px;font-size: 13px;font-weight: 100;color: #818888;background-color: #FFF;box-sizing: border-box;padding: 10px;width: 350px;height: 165px;resize: none;outline: none;border: none;background: #FFF;transition: all .2s ease-in-out;}
+.contacts-form__col-m #reset, 
+.contacts-form__col-m #submit {width: auto;padding: 0 55px;text-align: center;}
+
+
+
+
+
+
+
